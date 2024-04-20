@@ -1,3 +1,5 @@
+![Victor Carbajo's Logo](https://iili.io/JSH9PCF.jpg)
+
 <h1>"Ꮯꮻɴꮪꭲꭱꮜꮖɴꭰꮻ ꮯꮻ́ꭰꮖꮐꮻꮪ, ꮜꮇ ꮯꮻꮇꮇꮖꭲ ꭰꭼ ꮯꭺꭰꭺ ꮩꭼꮓ!"</h1>
 
 ![Victor Carbajo's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-carbajo&theme=maroongold&show_icons=true&locale=pt-br)
