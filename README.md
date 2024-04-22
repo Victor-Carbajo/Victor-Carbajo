@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![Victor Carbajo's Logo](https://iili.io/JSH9PCF.jpg)
+![Victor Carbajo's Logo](https://iili.io/JS5zh0X.jpg)
 
 <h1>"Ꮯꮻɴꮪꭲꭱꮜꮖɴꭰꮻ ꮯꮻ́ꭰꮖꮐꮻꮪ, ꮜꮇ ꮯꮻꮇꮇꮖꭲ ꭰꭼ ꮯꭺꭰꭺ ꮩꭼꮓ!"</h1>
 
