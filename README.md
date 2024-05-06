@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="/images/Desert Victor.jpg" />
+  <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="/images/Desert Victor.jpg"/>
   
   <br>
   <br>
@@ -51,5 +51,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+  <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="/images/Desert Footer.jpg"/>
 </div>
