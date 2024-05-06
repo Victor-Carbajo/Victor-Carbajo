@@ -1,6 +1,10 @@
 <div align="center">
   <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="/images/Desert Victor.jpg" />
-  <p align="center">I love solving great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>
+  <p align="center">Desenvolvedor de Software Multiplataforma apaixonado por desvendar problemas complexos através da tecnologia.
+    <br>
+    ★
+    <br>
+    Tenho um forte compromisso em equilibrar minhas habilidades técnicas com competências gerenciais, o que me permitiu adquirir experiência valiosa liderando equipes na faculdade, coordenando projetos e aprimorando constantemente o software. Além disso, tenho proficiência em integrar todas essas áreas com os princípios fundamentais do desenvolvimento ágil, especialmente utilizando o framework Scrum.</p>
   <div align="center" style="margin-bottom:100px">
     <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victor-carbajo&theme=radical&mode=weekly" />
     <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=victor-carbajo&show_icons=true&theme=radical&layout=compact" />
@@ -14,6 +18,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+<img src="/images/egypt.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -23,8 +29,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-<img src="/images/egypt.jpg" alt="Descrição da imagem" style="float:right;">
 
 ### Softwares
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
