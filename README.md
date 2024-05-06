@@ -4,7 +4,7 @@
   <br>
   <br>
   
-| Português Brasileiro                                              | American English                                                     |
+| 🇧🇷 Português Brasileiro                                           | 🇺🇸 American English                                                  |
 |-------------------------------------------------------------------|----------------------------------------------------------------------|
 | <p align="center">Desenvolvedor de Software Multiplataforma apaixonado por desvendar problemas complexos através da tecnologia.<br><br>Tenho um forte compromisso em equilibrar minhas habilidades técnicas com competências gerenciais, o que me permitiu adquirir experiência valiosa liderando equipes na faculdade, coordenando projetos e aprimorando constantemente o software. Além disso, tenho proficiência em integrar todas essas áreas com os princípios fundamentais do desenvolvimento ágil, especialmente utilizando o framework Scrum.</p> | <p align="center">Passionate Multiplatform Software Developer dedicated to unraveling complex problems through technology.<br><br>I have a strong commitment to balancing my technical skills with managerial competencies, which has allowed me to gain valuable experience leading teams in college, coordinating projects, and continually improving software. Additionally, I have proficiency in integrating all these areas with the fundamental principles of agile development, especially utilizing the Scrum framework.</p> |
 
