@@ -1,32 +1,36 @@
 <div align="center">
   <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="/images/Desert Victor.jpg" />
-  <p align="center">I love solving great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>
+  
+  <br>
+  <br>
+  
+| Português Brasileiro                                              | American English                                                     |
+|-------------------------------------------------------------------|----------------------------------------------------------------------|
+| <p align="center">Desenvolvedor de Software Multiplataforma apaixonado por desvendar problemas complexos através da tecnologia.<br><br>Tenho um forte compromisso em equilibrar minhas habilidades técnicas com competências gerenciais, o que me permitiu adquirir experiência valiosa liderando equipes na faculdade, coordenando projetos e aprimorando constantemente o software. Além disso, tenho proficiência em integrar todas essas áreas com os princípios fundamentais do desenvolvimento ágil, especialmente utilizando o framework Scrum.</p> | <p align="center">Passionate Multiplatform Software Developer dedicated to unraveling complex problems through technology.<br><br>I have a strong commitment to balancing my technical skills with managerial competencies, which has allowed me to gain valuable experience leading teams in college, coordinating projects, and continually improving software. Additionally, I have proficiency in integrating all these areas with the fundamental principles of agile development, especially utilizing the Scrum framework.</p> |
+
   <div align="center" style="margin-bottom:100px">
     <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victor-carbajo&theme=radical&mode=weekly" />
-    <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=victor-carbajo&show_icons=true&theme=radical&layout=compact" />
+    <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=victor-carbajo&show_icons=true&theme=radical&layout=compact"/>
   </div>
 </div>
 
-# Minhas Competências
+## :dart: My Skills
 
-### Linguagens de Marcação
+### :clipboard: Languages
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://wikimon.net/images/5/5c/Pharaohmon.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Pharaohmon">
 
-### Estou Aprendendo
+### :books: I'm Learning
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img src="/images/egypt.jpg" alt="Descrição da imagem" style="float:right;">
-
-### Softwares
+### :computer: Softwares
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -41,7 +45,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Contacts
+### :telephone_receiver: Contacts
 <div> 
   <a href="mailto:victor.carbajo@outlook.pt"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/victor-carbajo-dsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
