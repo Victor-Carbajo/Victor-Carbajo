@@ -21,7 +21,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<img src="/images/egypt.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://wikimon.net/images/5/5c/Pharaohmon.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Linguagens de Programação (Programming Languages)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
