@@ -8,10 +8,9 @@
 |-------------------------------------------------------------------|----------------------------------------------------------------------|
 | <p align="center">Desenvolvedor de Software Multiplataforma apaixonado por desvendar problemas complexos através da tecnologia.<br><br>Tenho um forte compromisso em equilibrar minhas habilidades técnicas com competências gerenciais, o que me permitiu adquirir experiência valiosa liderando equipes na faculdade, coordenando projetos e aprimorando constantemente o software. Além disso, tenho proficiência em integrar todas essas áreas com os princípios fundamentais do desenvolvimento ágil, especialmente utilizando o framework Scrum.</p> | <p align="center">Passionate Multiplatform Software Developer dedicated to unraveling complex problems through technology.<br><br>I have a strong commitment to balancing my technical skills with managerial competencies, which has allowed me to gain valuable experience leading teams in college, coordinating projects, and continually improving software. Additionally, I have proficiency in integrating all these areas with the fundamental principles of agile development, especially utilizing the Scrum framework.</p> |
 
-  <div align="center" style="margin-bottom:100px">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victor-carbajo&theme=great-gatsby&hide_border=true&border_radius=10&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-  </div>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victor-carbajo&theme=great-gatsby&hide_border=true&border_radius=10&card_width=500&card_height=200" alt="GitHub Streak" /></a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=great-gatsby&hide_border=true&border_radius=10&card_width=300&card_height=200)
+
+<div align="left">
 
 # :dart: My Skills
 
@@ -52,4 +51,5 @@
 
 <div align="center">
   <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="/images/Desert Footer.jpg"/>
+</div>
 </div>
